@@ -6,3 +6,5 @@ Ttis string will be added after coomit
 
 4 Еще одна строка для гита, которую сейчас не будем пушить. Еще немного подпрвил, и 
 теперь будем пушить.
+
+Еще изменение - поменял git config --globs user.name и user.email
